@@ -13,7 +13,7 @@ function adicionarNomes() {
         atualizarLista();
         document.getElementById("nomeAmigo").value = "";
     } else {
-        alert("Nome inválido ou já inserido!");
+        alert("Nome inserido!");
     }
 }
 
